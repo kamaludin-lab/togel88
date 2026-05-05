@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LOGIN | TOGEL88 3D</title>
+    <title>LOGIN | TOGEL88 OFFICIAL</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -12,26 +12,21 @@
     <div class="login-container">
         <div class="card-3d">
             <h1 class="logo-3d">TOGEL88</h1>
-            <p class="tagline">The World's Most Advanced Togel System</p>
+            <p class="tagline">WORLD CLASS LOTTERY SYSTEM</p>
             
             <form action="lobi.html">
-                <div class="input-group">
-                    <input type="text" placeholder="Username" required>
-                </div>
-                <div class="input-group">
-                    <input type="password" placeholder="Password" required>
-                </div>
-                <button type="submit" class="btn-main-3d">LOGIN SEKARANG</button>
+                <input type="text" placeholder="Username" required>
+                <input type="password" placeholder="Password" required>
+                <button type="submit" class="btn-main-3d">MASUK SEKARANG</button>
             </form>
             
             <div class="footer-links">
-                <a href="#">Lupa Password?</a> | <a href="#">Daftar Akun Baru</a>
+                <p>Belum punya akun? <a href="#">Daftar Disini</a></p>
             </div>
         </div>
     </div>
 
     <script>
-        // Animasi partikel sederhana untuk background
         const bg = document.getElementById('bg-stars');
         for (let i = 0; i < 50; i++) {
             const star = document.createElement('div');
